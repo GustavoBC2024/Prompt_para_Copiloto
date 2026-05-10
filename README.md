@@ -1,5 +1,3 @@
-New-Item README.md
-
 Informações para a criação desses prompts abaixo, utilizado para uso próprio.
 
 # Prompt para Copiloto
